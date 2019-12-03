@@ -1,2 +1,13 @@
+Descomplicando a Música (https://youtu.be/70nk_WxBhmM)
+
+#Exercício 1 - Improviso DENTRO de um centro tonal:
 Colocar um backtracking em C (do youtube) e tocar os diferentes modos, dentro desse campo harmônico.
 https://youtu.be/70nk_WxBhmM (ver a partir dos 23'33")
+
+#Exercício 2 - Improviso, MUDANDO o centro tonal:
+Pega uma música com mudança de tom e treina tocar na mesma região.
+https://youtu.be/70nk_WxBhmM (ver a partir dos 45'04")
+
+#Exercício 3 - Forçar um modo numa música:
+Identificar a outside note do modo e destacar ela quando estiver improvisando, pra forçar o modo.
+https://youtu.be/70nk_WxBhmM (~50'00")
